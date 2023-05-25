@@ -1,0 +1,103 @@
+h1 {
+    text-align:center;
+    color:#A4F2F4;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 5rem;
+}
+
+h2 {
+    text-align:center;
+    color:#AFABEF;
+    font-family: 'Abril Fatface', cursive;
+    font-weight:400;
+    font-size: 5rem;
+}
+
+h3 {
+    color:#A4F2F4;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 3rem;
+}
+
+p {
+    color:#F4B5E7;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5vw 3vw
+}
+
+#Cabecera {
+    background-color: #A4F2F4;
+    text-align: center;
+    padding: 4.5rem;
+    color:white;
+    font-family:'League Spartan', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+#Explora {
+    background-color: #EBF7F7;
+    text-align: center;
+    padding: 5% 0% 5% 5%;
+    margin: 0 auto;
+}
+
+.texto-explora {
+    align-items: center;
+    display: flex;
+  }
+
+.img-explora {
+    text-align: center;
+    width: 100%;
+}
+
+#Descripción {
+    text-align: center;
+    padding: 5%;
+}
+
+#Colecciones {
+    background-color:#D4D4FC;
+    padding: 10% 5%;
+}
+
+.img-colecciones {
+    text-align: center;
+    width: 100%;
+    border-color: blueviolet;
+    background-color: #AFABEF;
+    padding: 20px 20px 80px 20px;
+    border-radius: 5px;
+}
+
+#OtraSección {
+    background-color:white;
+    padding: 15% 5% 5% 5%;
+}
+
+.img-OtraSección {
+    text-align: center;
+    width: 100%;
+}
+
+#footer {
+    background-color:#F4B5E7;
+    padding: 1%;
+    text-align: center;
+}
+
+.copy {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+}
+
+.container-fluid {
+    padding: 2% 10% 0%;
+    float: center;
+}
